@@ -1,2 +1,3 @@
 # Artificial-intelligence-workshop
-Slides &amp; images of Artificial Intelligence Workshop 18-02-2017 
+##Workshop 18-02-2017 by Team .EXE
+Slides &amp; images of Artificial Intelligence 
